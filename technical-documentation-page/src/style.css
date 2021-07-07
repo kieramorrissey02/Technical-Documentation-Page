@@ -1,0 +1,169 @@
+@media (max-width:900px;)
+body {
+  background:pink;
+}
+
+#navbar {
+  position:fixed;
+  top:0px;
+  left:0px;
+  height:100%;
+  width:20%;
+  list-style-type:none;
+  border:5px solid black;
+}
+
+#menu-ul {
+  padding:0;
+  height:100%;
+	overflow-y:scroll;
+  overflow-x:hidden;
+  list-style-type:none;
+}
+#main-doc {
+position:absolute;
+margin-left: 310px;
+padding: 20px;
+margin-bottom: 110px;
+}
+
+code {
+ position:relative;
+ top:30px;
+ left:20px;
+}
+
+.main-section {
+
+}
+
+#Introduction {
+
+}
+
+
+#JavaScript_and_Java {
+  
+}
+
+.graybox {
+  background-color:gainsboro;
+  height:100px;
+  width:75%;
+}
+
+#Global_variables {
+  
+}
+
+#Variable_scope {
+  
+}
+
+#Variables {
+  
+}
+
+#Constants {
+  
+}
+.nav-link {
+display:block;
+list-style-type:none; 
+width:100%;
+height:100%;
+}
+
+
+a:link {
+  color:black;
+  background-color:lightgray;
+  padding:20px;
+  height:100%;
+  width:100%;
+  text-decoration:none;
+  font-family:arial;
+  
+}
+
+
+a:visited {
+  color: green;
+}
+
+
+a:hover {
+  background-color:navy;
+  color: hotpink;
+}
+
+
+a:active {
+  color: blue;
+}
+
+#What_you_should_already_know {
+  
+}
+
+#Hello_world {
+  
+}
+
+#Declaring_variables {
+  
+}
+
+#Data_types {
+  
+}
+
+#if...else_statement {
+  
+}
+
+#while_statement {
+  
+}
+
+#Function_declarations {
+  
+}
+
+#link_at_reference {
+  text-decoration:underline;
+  color:blue;
+  background-color:transparent;
+  padding:0px;
+}
+
+#link_at_reference:hover {
+  color:yellow;
+}
+#list {
+  list-style-type:disc;
+}
+
+#listtwo {
+  list-style-type:circle;
+}
+
+h1 {
+  font-family:arial;
+}
+
+h2 {
+ font-family:arial; 
+}
+
+p {
+  font-family:arial;
+}
+
+li  {
+  font-family:arial;
+}
+
+#Reference {
+
+}
